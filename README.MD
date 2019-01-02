@@ -37,3 +37,5 @@ FAILED TESTS:
 I'm trying to accomplish two things:
 1) Figure out how why this failure is occuring
 2) Learn how to test `lit-element` based components more effectively
+
+The answer was: use https://open-wc.org test helpers!
